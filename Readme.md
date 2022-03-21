@@ -45,3 +45,6 @@
 <a href = "https://digital-passion.medium.com/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
 
 </p>
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEAB-H&count_private=true)]
+  
