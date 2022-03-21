@@ -34,7 +34,7 @@
   
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ZEAB-H&count_private=true&theme=tokyonight,prs)
+![github stats](https://github-readme-stats.vercel.app/api?username=ZEAB-H&count_private=true&theme=synthwave&show_icons=true,prs)
 
 
 ## Connect with me:
@@ -45,6 +45,5 @@
 <a href = "https://digital-passion.medium.com/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
 
 </p>
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEAB-H&count_private=true)]
-  
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZEAB-H&theme=dark&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=M%20j%5B%2C%20Y%5D)
