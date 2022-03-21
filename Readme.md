@@ -34,7 +34,7 @@
   
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ZEAB-H&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ZEAB-H&count_private=true&theme=tokyonight,prs)
 
 
 ## Connect with me:
