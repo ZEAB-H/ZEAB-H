@@ -72,7 +72,7 @@ const getToKnowAbel = {
 
 - [Machine Learning Pipelines with Azure ML Studio Certificate](https://www.coursera.org/account/accomplishments/certificate/D2YLKSMBZAS3)
 - [Modern Software Development Tools](https://drive.google.com/file/d/1NgLzIHf_KYnWSZ1SP2ZBQr3-C8KSm9ln/view?usp=sharing)
-- [Digita skills: Artificial Intelligence](https://drive.google.com/file/d/1ZvQEnUpMrcggOy5NFtbO-2f8jVI3hrx1/view)
+- [Digital skills: Artificial Intelligence](https://drive.google.com/file/d/1ZvQEnUpMrcggOy5NFtbO-2f8jVI3hrx1/view)
 - [Machine Learning with Python](https://drive.google.com/file/d/1BfRD_1mnwgjPj6Ij5_14wazsc0t3Pk2e/view?usp=sharing)
 - [Global Tech Advanced Software Engineering Virtual Experience](https://drive.google.com/file/d/1LxRUUN-3rZI1HFgZ8mGoWygb8tZaig2v/view?usp=sharing)
 
