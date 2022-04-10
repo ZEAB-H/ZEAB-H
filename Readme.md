@@ -63,7 +63,7 @@ const getToKnowAbel = {
 
 ![GitHub metrics](https://metrics.lecoq.io/ZEAB-H)
 
-[![Micky's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZEAB-H&theme=dracula)](https://github.com/ZEAB-H/github-readme-activity-graph)
+[![Abel's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZEAB-H&theme=dracula)](https://github.com/ZEAB-H/github-readme-activity-graph)
 
 
 
@@ -113,7 +113,7 @@ https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoC
 <p align="center">
 <a href = "https://twitter.com/ABELH30"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://www.linkedin.com/in/abel-dejene30/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/mickyta12/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/abeldejene30/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://mailto:abelhailemichael30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 <a href = "https://digital-passion.medium.com/"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
 <p align = "center"><a href="https://github.com/ZEAB-H">
