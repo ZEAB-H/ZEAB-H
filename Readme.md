@@ -66,15 +66,6 @@ const getToKnowAbel = {
 [![Abel's github activity graph](https://activity-graph.herokuapp.com/graph?username=ZEAB-H&theme=dracula)](https://github.com/ZEAB-H/github-readme-activity-graph)
 
 
-
-
-## My Certifications and Badges :
-
-- [Machine Learning Pipelines with Azure ML Studio Certificate](https://www.coursera.org/account/accomplishments/certificate/D2YLKSMBZAS3)
-- [Modern Software Development Tools](https://drive.google.com/file/d/1NgLzIHf_KYnWSZ1SP2ZBQr3-C8KSm9ln/view?usp=sharing)
-- [Digital skills: Artificial Intelligence](https://drive.google.com/file/d/1ZvQEnUpMrcggOy5NFtbO-2f8jVI3hrx1/view)
-- [Machine Learning with Python](https://drive.google.com/file/d/1BfRD_1mnwgjPj6Ij5_14wazsc0t3Pk2e/view?usp=sharing)
-
 <br>
 <br>
 
