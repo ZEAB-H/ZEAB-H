@@ -47,6 +47,7 @@ const getToKnowAbel = {
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ZEAB-H&count_private=true&theme=synthwave&show_icons=true,prs)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZEAB-H)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
