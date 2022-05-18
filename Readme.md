@@ -12,10 +12,8 @@
 
 <p align = "center"><img src="./animation_500_kxa883sd.gif" alt="Abel Hailemichael" width = "400px" height = "400px"/></p>
 
-
-<h1>Hello, I'm Abel Hailemichael <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> 😉</h1>
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Abel+from+Ethiopia!!!;Curious+Computer+Science+Student!)](https://git.io/typing-svg)
+<hr>
 <br>
 
 ``` JavaScript
