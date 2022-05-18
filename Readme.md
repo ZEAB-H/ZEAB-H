@@ -12,7 +12,7 @@
 
 <p align = "center"><img src="./animation_500_kxa883sd.gif" alt="Abel Hailemichael" width = "400px" height = "400px"/></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Abel+from+Ethiopia!!!;Curious+Computer+Science+Student!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Abel+from+Ethiopia!!!;A+Curious+Computer+Science+Student!)](https://git.io/typing-svg)
 <hr>
 <br>
 
