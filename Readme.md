@@ -109,6 +109,8 @@ https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoC
 </p>
 
 <p align="left">
+  
+[![Abel Hailemichael Medium](https://github-readme-medium.vercel.app/?username=digital-passion&limit=3)](https://medium.com/@digital-passion)
 
 
 
