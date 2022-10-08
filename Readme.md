@@ -21,9 +21,7 @@ const getToKnowAbel = {
     fullName: "Abel Hailemichael Dejene",
     origin: "Ethiopia 🇪🇹",
     jobStatus: "Student at Addis Ababa University",
-    techLanguages:["Python","Css","JavaScript","HTML","C++",
-    age: 20,
-    isWorkingNow: false,
+    techLanguages:["Python","Css","JavaScript","HTML","C++"],
     educationLevel: {
         bachlorsDegree: "Computer Science",
         isCompleted: false,
